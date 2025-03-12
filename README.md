@@ -1,0 +1,3 @@
+I wrote a .ipynb code to try and implement an automatic way of managing my job hunt. 
+I created a database in excel where I can insert the name of the company, the position I'm apllying to, the location ecc...
+Eventually I tried to customize it adding a dropdown menu to select different option for some columns of interest. I looked up on ChatGPT for some help, I found a solution and implemented it. The code works without problems but the dropdown menu doesn't appear. 
